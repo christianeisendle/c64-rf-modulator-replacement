@@ -1,0 +1,7 @@
+~*
+.history
+*-backups
+fp-lib-table
+sym-lib-table
+gerber/
+*.lck
